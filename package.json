@@ -1,0 +1,8 @@
+{
+  "name": "strhome",
+  "version": "0.0.1",
+  "description": "Stream your own movie from your home",
+  "main": "index.ts",
+  "author": "RAISIN Mathieu",
+  "license": "ISC"
+}
